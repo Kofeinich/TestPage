@@ -1,7 +1,7 @@
 html {
     font-size: xx-large;
     font-family: "Noto Sans JP";
-    background-color: lightpink;
+    background-color: #e9b4bf;
     padding: 0px 150px 150px 150px;
 }
 h1 {
@@ -37,7 +37,7 @@ nav {
     text-align: center;
     color: #483a3a;
     font-family: AppleMyungjo;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 
 a::after {
