@@ -2,7 +2,6 @@ html {
     font-size: xx-large;
     font-family: "Noto Sans JP";
     background-color: lightpink;
-    padding: 0px 150px 150px 150px;
 }
 h1 {
     margin: 0;
@@ -11,11 +10,6 @@ h1 {
     letter-spacing: 7px;
     color: #483a3a;
     text-shadow: 3px 3px 1px #6d6969;
-}
-
-img {
-    display: block;
-    margin: 0 auto;
 }
 
 h2 {
@@ -27,6 +21,11 @@ h2 {
 p2, a {
     font-size: 28px;
     color: #6d6969;
+}
+
+p3 {
+    font-size: 28px;
+    color: #92535e;
 }
 
 a:hover, small{
